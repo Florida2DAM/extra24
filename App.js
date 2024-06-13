@@ -45,9 +45,10 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   sectionDescription: {
+    color: 'black',
     marginTop: 8,
     fontSize: 18,
-    fontWeight: '400',
+    fontWeight: 'bold',
   },
 });
 
